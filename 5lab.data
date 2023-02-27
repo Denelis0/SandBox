@@ -1,0 +1,42 @@
+add
+128945912
+some string 1
+add
+239871289045
+some string 2
+add
+4328957392-14
+some string 3
+print
+del
+123
+del
+128945912
+print
+find
+128945912
+find
+239871289045
+add
+111213
+some string 4
+add
+124354235
+some string 5
+add
+123432543212
+some string 6
+add
+123434532543543
+some string 7
+add
+0934238832
+some string 8
+add
+00123401204012
+some string 9
+add
+12414
+some string 10
+print
+quit
